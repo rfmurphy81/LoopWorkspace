@@ -5,7 +5,7 @@
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/dm61/LoopKit.git
-	branch = piecewise-carb-model
+	branch = effect-allocation
 [submodule "CGMBLEKit"]
 	path = CGMBLEKit
 	url = https://github.com/LoopKit/CGMBLEKit.git
@@ -24,7 +24,7 @@
 [submodule "rileylink_ios"]
 	path = rileylink_ios
 	url = https://github.com/ps2/rileylink_ios.git
-	branch = bolus-tracking-fixes
+	branch = dev
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
